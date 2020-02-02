@@ -1,1 +1,1 @@
-# LifeFeel-assets
+# Assets for LifeFeel
